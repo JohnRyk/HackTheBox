@@ -28,7 +28,7 @@ Cheat sheets for **Hack(ing) The Box(es)**
     * [Perl](https://github.com/lorenzoinvidia/HackTheBox/wiki/Shells#Perl)
     * [PHP](https://github.com/lorenzoinvidia/HackTheBox/wiki/Shells#PHP)
     * [Java jjs](https://github.com/lorenzoinvidia/HackTheBox/wiki/Shells#Java-jjs)
-    * [Web-delivery](https://github.com/lorenzoinvidia/HackTheBox/wiki/Shells#Web-delivery)
+    * [Powershell](https://github.com/lorenzoinvidia/HackTheBox/wiki/Shells#Powershell)
     * [OpenOffice](https://github.com/lorenzoinvidia/HackTheBox/wiki/Shells#OpenOffice)
     
 * [Web](https://github.com/lorenzoinvidia/HackTheBox/wiki/Web)
