@@ -42,3 +42,4 @@ Cheat sheets for **Hack(ing) The Box(es)**
     * [XSS](https://github.com/lorenzoinvidia/HackTheBox/wiki/XSS)
     * [Complain Management System](https://github.com/lorenzoinvidia/HackTheBox/wiki/Web#Complain-Management-System)
     * [OpenNetAdmin RCE](https://github.com/lorenzoinvidia/HackTheBox/wiki/Web#OpenNetAdmin-RCE)
+    * [Joomla Code injection](https://github.com/lorenzoinvidia/HackTheBox/wiki/Web#Joomla-Code-injection)
