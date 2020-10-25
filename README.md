@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lorenzoinvidia/HackTheBox/blob/master/src/htb.png" alt="HTB" width="300" />
+  <img src="https://github.com/lorenzoinvidia/HackTheBox/blob/master/src/htb.png" alt="HTB" width="120" />
 </p>
 
 # HackTheBox
