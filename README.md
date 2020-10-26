@@ -40,7 +40,7 @@ Cheat sheets for **Hack(ing) The Box(es)**
     * [SQLi](https://github.com/lorenzoinvidia/HackTheBox/wiki/SQLi)
     * [NonSQLi](https://github.com/lorenzoinvidia/HackTheBox/wiki/Web#NonSQLi)   
     * [XSS](https://github.com/lorenzoinvidia/HackTheBox/wiki/XSS)
-    * [Complain Management System](https://github.com/lorenzoinvidia/HackTheBox/wiki/Web#Complain-Management-System)
+    * [Bypass Access Control](https://github.com/lorenzoinvidia/HackTheBox/wiki/Web#Bypass-Access-Control)
     * [OpenNetAdmin RCE](https://github.com/lorenzoinvidia/HackTheBox/wiki/Web#OpenNetAdmin-RCE)
     * [Joomla LFI](https://github.com/lorenzoinvidia/HackTheBox/wiki/Web#Joomla-LFI)
     * [Unrestricted file upload](https://github.com/lorenzoinvidia/HackTheBox/wiki/Web#Unrestricted-file-upload)
