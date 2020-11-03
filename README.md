@@ -38,6 +38,7 @@ Cheat sheets for **Hack(ing) The Box(es)**
     * [Input Validation](https://github.com/lorenzoinvidia/HackTheBox/wiki/Web#Input-Validation)
     * [NonSQLi](https://github.com/lorenzoinvidia/HackTheBox/wiki/NonSQLi)
     * [SQLi](https://github.com/lorenzoinvidia/HackTheBox/wiki/SQLi)
+    * [XSS](https://github.com/lorenzoinvidia/HackTheBox/wiki/xss)
     * [Session Management](https://github.com/lorenzoinvidia/HackTheBox/wiki/Web#Session-Management)
     * [Authorization](https://github.com/lorenzoinvidia/HackTheBox/wiki/Web#Authorization)
     * [File Inclusion](https://github.com/lorenzoinvidia/HackTheBox/wiki/Web#File-Inclusion)
